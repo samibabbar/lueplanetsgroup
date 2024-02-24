@@ -1,4 +1,4 @@
-# ISCI 3A12 LUE Seminar 1: Planetary Formation
+
 
 Hello ISCI 3A12! The following preparatory material is for your upcoming seminar on **Wednesday, February 28th 2024 at 4:30 pm (HH 305)**. In this seminar, we will be covering the specific steps to the classical theory of planetary formation, and how this hypothesis has changed in recent years due to Atacama Large Millimeter/submillimeter Array (ALMA) and Kepler technologies. In order to prepare for the lesson. We have developed some short review materials, videos, and an assessment quiz to test your knowledge before the seminar. 
 
