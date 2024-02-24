@@ -33,7 +33,8 @@ As mentioned, this seminar will be focusing on the theories regarding planetary 
 
 Figure 1 highlights the simplified steps as to how dense gas dust develops into planets over time.
 
-![](accretion.png)
+![accretion](accretion.png)
+
 *Figure 1: The standard phases involved in planetary formation, showing the evolution of dense gas dust into planets through gradual accretion (Sosa, 2019).*
 
 The theory of planetary formation, much like the categorisation of exoplanets, is difficult to understand with current research. The diversity of planetary systems that exist beyond our own have further exemplified that there may be varying demographics and complexities. With recent advancements and direct observation of protostars, we have been able to further understand the structure and time scales that are involved in exoplanet formation. You have probably seen the iconic ALMA images pertaining to this (linked below), however, this is just the beginning. The following videos and links below are to further your knowledge and get an understanding before the seminar. Note that some readings are optional.
