@@ -52,3 +52,15 @@ The theory of planetary formation, much like the categorisation of exoplanets, i
 ) “ALMA Observation of Young Star Reveals Details of Dust Grains.”
 
 ## Pre-Assessment Quiz
+[Here is the link](https://forms.office.com/r/6Fk2kpZQrD ) for the quiz to be completed by Wednesday February 28th at 2:00 pm!
+
+> Take a moment to reflect on what you already know and some existing questions you have for the upcoming seminar. We look forward to seeing you there ISCI 3A12!
+
+## References
+
+Drazkowska, J., Bitsch, B., Lambrechts, M., Mulders, G.D., Harsono, D., Vazan, A., Liu, B., Ormel, C.W., Kretke, K. and Morbidelli, A., 2022. Planet Formation Theory in the Era of ALMA and Kepler: from Pebbles to Exoplanets. [online] https://doi.org/10.48550/ARXIV.2203.09759. <p>
+Morbidelli, A., 2020. Planet formation by pebble accretion in ringed disks. Astronomy & Astrophysics, 638, p.A1. https://doi.org/10.1051/0004-6361/202037983.  <p>
+National Radio Astronomy Observatory, 2023. ALMA Observation of Young Star Reveals Details of Dust Grains. Available at: <https://public.nrao.edu/news/alma-observation-of-young-star-reveals-details-of-dust-grains/> [Accessed 23 February 2024].  <p>
+Okrusch, M. and Frimmel, H.E., 2020. The Genesis of Our Solar System. In: Mineralogy. [online] Berlin, Heidelberg: Springer Berlin Heidelberg. pp.667–676. https://doi.org/10.1007/978-3-662-57316-7_34.  <p>
+Sosa, R., 2019. Accretion theory of ideation: evaluation regimes for ideation stages. Design Science, [online] 5, p.e23. https://doi.org/10.1017/dsj.2019.22. <p>
+We Might Be Wrong About Planet Formation. 2022. Available at: <https://www.youtube.com/watch?v=Umu613bK7W8> [Accessed 23 February 2024]. <p>
